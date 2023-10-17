@@ -7,10 +7,12 @@ Installation:
 pip install -r requirements.txt
 ```
 <br>
+
 Executing:
 ```
 python agent.py
 ```
+
 <br>
 
 ![gif](https://github.com/nogueira04/AI_snake-game/blob/main/ex.gif)
